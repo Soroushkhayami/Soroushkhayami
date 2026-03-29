@@ -35,7 +35,7 @@ I am currently pursuing a Master's in **Data Science at Politecnico di Torino**,
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soroushkhayami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400&v=88" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soroushkhayami&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
