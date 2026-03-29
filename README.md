@@ -32,7 +32,7 @@ I am currently pursuing a Master's in **Data Science at Politecnico di Torino**,
 ### 📊 GitHub Stats & Consistency
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soroushkhayami&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Soroushkhayami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com?user=Soroushkhayami&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
@@ -43,8 +43,6 @@ I am currently pursuing a Master's in **Data Science at Politecnico di Torino**,
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Soroushkhayami&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
-
----
 
 ### 📫 Let's Connect
 
