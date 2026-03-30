@@ -66,9 +66,8 @@ I am currently pursuing a Master's in **Data Science at Politecnico di Torino**,
   </a>
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
-<br/>
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Inspirational Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
 </div>
+<br/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
