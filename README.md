@@ -65,3 +65,5 @@ I am currently pursuing a Master's in **Data Science at Politecnico di Torino**,
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
