@@ -34,12 +34,11 @@ I am currently pursuing a Master's in **Data Science at Politecnico di Torino**,
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ### 🏆 GitHub Trophies & Consistency
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Soroushkhayami&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&v=99" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Soroushkhayami&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&v=55432" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -47,7 +46,7 @@ I am currently pursuing a Master's in **Data Science at Politecnico di Torino**,
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Soroushkhayami&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soroushkhayami&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soroushkhayami&layout=compact&theme=tokyonight&hide_border=true&v=55432" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
